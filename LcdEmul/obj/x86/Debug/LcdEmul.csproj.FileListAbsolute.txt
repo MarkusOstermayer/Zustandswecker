@@ -1,0 +1,16 @@
+D:\MBed\C#2\LcdEmul\bin\Debug\LcdEmul.exe
+D:\MBed\C#2\LcdEmul\bin\Debug\LcdEmul.pdb
+D:\MBed\C#2\LcdEmul\obj\x86\Debug\LcdEmul.Properties.Resources.resources
+D:\MBed\C#2\LcdEmul\obj\x86\Debug\LcdEmul.csproj.GenerateResource.Cache
+D:\MBed\C#2\LcdEmul\obj\x86\Debug\LcdEmul.exe
+D:\MBed\C#2\LcdEmul\obj\x86\Debug\LcdEmul.pdb
+D:\MBed\C#2\LcdEmul\obj\x86\Debug\LcdEmul.csprojResolveAssemblyReference.cache
+D:\MBed\C#2\LcdEmul\obj\x86\Debug\LcdEmul.Form2.resources
+C:\Users\markus.ostermayer.ADS\Desktop\Kail Programme\LcdEmul\obj\x86\Debug\LcdEmul.exe
+C:\Users\markus.ostermayer.ADS\Desktop\Kail Programme\LcdEmul\obj\x86\Debug\LcdEmul.pdb
+C:\Users\markus.ostermayer.ADS\Desktop\Kail Programme\LcdEmul\bin\Debug\LcdEmul.exe
+C:\Users\markus.ostermayer.ADS\Desktop\Kail Programme\LcdEmul\bin\Debug\LcdEmul.pdb
+C:\Users\markus.ostermayer.ADS\Desktop\Kail Programme\LcdEmul\obj\x86\Debug\LcdEmul.csprojResolveAssemblyReference.cache
+C:\Users\markus.ostermayer.ADS\Desktop\Kail Programme\LcdEmul\obj\x86\Debug\LcdEmul.Form2.resources
+C:\Users\markus.ostermayer.ADS\Desktop\Kail Programme\LcdEmul\obj\x86\Debug\LcdEmul.Properties.Resources.resources
+C:\Users\markus.ostermayer.ADS\Desktop\Kail Programme\LcdEmul\obj\x86\Debug\LcdEmul.csproj.GenerateResource.Cache
